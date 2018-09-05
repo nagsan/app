@@ -7,6 +7,6 @@ public class Employee {
 public int getId() {
 	return id;
 }
-
+ int g;
 
 }
