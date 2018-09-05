@@ -1,6 +1,5 @@
 package app;
 
-import org.omg.Messaging.SyncScopeHelper;
 
 public class Employee {
    private int id;
@@ -17,8 +16,4 @@ public String getF() {
 public void setF(String f) {
 	this.f = f;
 }
-
-
-   
-   
 }
