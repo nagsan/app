@@ -10,6 +10,7 @@ public int getId() {
 public void setId(int id) {
 	this.id = id;
 }
+
 public void setF(String f) {
 	this.f = f;
 }
